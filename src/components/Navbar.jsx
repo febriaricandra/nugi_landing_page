@@ -15,7 +15,7 @@ export default function Navbar() {
           <ul className="flex flex-row items-center">
             <Link className="px-2 text-gray" to='/pricing'>Pricing</Link>
             <Link className="px-2 text-gray" to='/about'>About us</Link>
-            <Link className="px-2 text-gray" to='/pricing'>Contact</Link>
+            <Link className="px-2 text-gray" to='/contact'>Contact</Link>
           </ul>
         </div>
         <div className="btn flex">
